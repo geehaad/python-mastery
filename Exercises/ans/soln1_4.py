@@ -2,7 +2,6 @@
 
 ## (a) Defining a function
 
-```python
 # pcost.py
 
 def portfolio_cost(filename):
@@ -16,11 +15,10 @@ def portfolio_cost(filename):
     return total_cost
 
 print(portfolio_cost('Data/portfolio.dat'))
-```
 
 ## (b) Adding some error handling
 
-```python
+# ```python
 # pcost.py
 
 def portfolio_cost(filename):
@@ -40,7 +38,7 @@ def portfolio_cost(filename):
     return total_cost
 
 print(portfolio_cost('Data/portfolio3.dat'))
-```
 
 
-[Back](ex1_4.md)
+
+# [Back](ex1_4.md)
